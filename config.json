@@ -1,7 +1,7 @@
 {
     "webhook enabled": true,
     "webhook": "https://discord.com/api/webhooks/1120748293056643113/VZqqjWlcGxo99fIGmAiqeq6IR38pYAsucA75doNon8gibqsd7Xby0Vf50KstyIaNsjC3",
-    "ping everyone": false,
+    "ping everyone": true,
 
     "auto update": true,
     "better print": true,
