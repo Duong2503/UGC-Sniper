@@ -10,14 +10,14 @@
     "debug": false,
 
     "cookie bought max": 1,
-    "buy ratelimit cooldown": 0.75,
+    "buy ratelimit cooldown": 0.5,
 
     "purchase proxy": false,
     "proxies enabled": false,
     "timeout": 3,
 
     "mode": "",
-    "custom speed cooldown": -1,
+    "custom speed cooldown": -10,
     "custom quick cooldown": -1,
     "custom casual cooldown": -1,
     "custom afk cooldown": -1,
@@ -41,7 +41,7 @@
     "purchase paid ugcs amount": 0,
 
     "proxy ratelimit cooldown": 0,
-    "ratelimit cooldown": 0.75,
+    "ratelimit cooldown": 1,
 
     "current theme": "baseTheme",
 
