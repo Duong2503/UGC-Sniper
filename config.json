@@ -10,7 +10,7 @@
     "debug": false,
 
     "cookie bought max": 1,
-    "buy ratelimit cooldown": 0,75,
+    "buy ratelimit cooldown": 0.75,
 
     "purchase proxy": false,
     "proxies enabled": false,
