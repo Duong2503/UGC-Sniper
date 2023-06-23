@@ -17,7 +17,7 @@
     "timeout": 3,
 
     "mode": "",
-    "custom speed cooldown": -100,
+    "custom speed cooldown": -1,
     "custom quick cooldown": -1,
     "custom casual cooldown": -1,
     "custom afk cooldown": -1,
