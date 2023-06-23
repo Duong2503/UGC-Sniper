@@ -10,7 +10,7 @@
     "debug": false,
 
     "cookie bought max": 1,
-    "buy ratelimit cooldown": 0.5,
+    "buy ratelimit cooldown": 0.25,
 
     "purchase proxy": false,
     "proxies enabled": false,
@@ -34,14 +34,14 @@
 
     "time wait minutes": -1,
     "time wait unix": -1,
-    "print update cooldown": 0.5,
+    "print update cooldown": 0.25,
 
     "purchase paid ugcs": false,
     "paid ugcs max price": 0,
     "purchase paid ugcs amount": 0,
 
     "proxy ratelimit cooldown": 0,
-    "ratelimit cooldown": 0.5,
+    "ratelimit cooldown": 0.25,
 
     "current theme": "baseTheme",
 
